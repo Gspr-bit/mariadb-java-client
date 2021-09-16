@@ -13,3 +13,7 @@ In the top bar you can input any command, you can do whatever you want as if it 
 You can watch images saved in blobs, to do so, select the blob and then go to view image, the image should be displayed.
 
 Please feel free to fork this.
+
+## How to edit
+
+This is a netbeans project so you can edit it easily there, just add the `mysql-connector-java-5.1.13-bin.jar` library.
